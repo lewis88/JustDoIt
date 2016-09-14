@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0092d7</color>
+    <color name="colorPrimaryDark">#083c93</color>
+    <color name="colorAccent">#1e6e87</color>
+    <color name="main">#F6F6FF</color>
+    <color name="add_note_box">#6aeae9</color>
+    <color name="add_button">#6969ae</color>
+</resources>

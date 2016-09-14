@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustDoIt!</string>
+    <string name="note_heading">Title</string>
+    <string name="note_content">Create Note&#8230;</string>
+    <string name="add_button">Add</string>
+    <string name="cal_button">Set Date</string>
+</resources>
