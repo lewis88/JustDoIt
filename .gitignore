@@ -11,11 +11,10 @@
 /gradle
 /build.gradle
 /gradle.properties
-gradlew
+/gradlew
 /gradlew.bat
-JustDoIt.iml
 /local.properties
-settings.gradle
+/settings.gradle
 
 /app/build
 /app/libs
